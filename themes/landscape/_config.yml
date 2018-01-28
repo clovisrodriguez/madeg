@@ -1,0 +1,36 @@
+# Header
+menu:
+  Inicio: /
+  Productos: /productos
+  Contacto: /contacto
+rss: /atom.xml
+
+# Content
+excerpt_link: Descubre más
+fancybox: true
+
+# Sidebar
+sidebar: right
+widgets:
+- category
+- tag
+- recent_posts
+
+# display widgets at the bottom of index pages (pagination == 2)
+index_widgets:
+# - category
+# - tagcloud
+# - archive
+
+# widget behavior
+archive_type: 'monthly'
+show_count: false
+
+# Miscellaneous
+google_analytics:
+gauges_analytics:
+favicon: http://www.iconj.com/ico/t/p/tp4m7005yt.ico
+twitter:
+google_plus:
+fb_admins:
+fb_app_id:
